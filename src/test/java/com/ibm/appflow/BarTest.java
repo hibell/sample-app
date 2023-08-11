@@ -12,4 +12,9 @@ public class BarTest {
     public void testBar2() {
         System.out.println("testBar2 successful!");
     }
+
+    @Test
+    public void testBar3() {
+        System.out.println("testBar3 successful!");
+    }
 }
