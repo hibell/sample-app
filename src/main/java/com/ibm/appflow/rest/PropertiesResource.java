@@ -20,7 +20,7 @@ public class PropertiesResource {
         return System.getProperties();
     }
 
-    //@GET
+    @GET
     @Path("/{name}")
     @Produces(MediaType.APPLICATION_JSON)
     public Response getProperty(
