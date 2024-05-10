@@ -1,4 +1,4 @@
-# Sample App Test Test
+# Sample App Test
 
 After you generate a starter project, these instructions will help you with what to do next.
 
